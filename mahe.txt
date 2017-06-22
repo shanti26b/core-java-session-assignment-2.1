@@ -1,0 +1,26 @@
+The Java Architecture::
+
+Architecture:
+     
+                  Java's architecture makes a useful tool for developing software in a networked environment.
+Architecuture is systematic arrangement of components.
+
+             A single component or a new function has design that has to fit within the overall architecture.
+ A similar term framwork can be throught of as the structure part of an architecture. An architecture is 
+ a design but most designs are not architecture.
+
+                  Java Virtual Machine is a component which provides environment for running java program.
+ JVM interprets the bytecode into machine code which will be executed the machine in which the java
+ program runs.
+
+        Compile the course to java class files and run the class files on a JVM. It's role in platform
+ independence is serving as a binary form for java programs that is expected by the JVM but
+ independent of underlying host platforms, and our program specific to a particular implementation
+ of the java platform.
+
+    JRE contains JVM class libraries and other supporting files.Java runtime environment it is used to
+ run a programe in java.
+ 
+       Java development kit is the core component of java. JDK contains tools needed to develop the
+java programs. The JDK is what you need to compile java source code. These are components of the
+java architecture of java...
